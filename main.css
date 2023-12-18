@@ -1,0 +1,11 @@
+.demo {
+  background-color: darksalmon;
+  margin: auto;
+  width: 50%;
+  height: 300px;
+  border-radius: 30px;
+  border: 2px solid black;
+}
+.vip {
+  text-align: center;
+}
